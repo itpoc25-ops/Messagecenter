@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mrc-mcp": {
+      "type": "http",
+      "url": "https://www.microsoft.com/releasecommunications/mcp"
+    }
+  }
+}
